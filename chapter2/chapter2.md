@@ -1,3 +1,4 @@
+# R exercise chapter
 ```R
 library(tidyverse)
 ```
@@ -253,8 +254,6 @@ ggplot(data=mpg, aes(x=hwy, y=displ)) +
 
 ![png](output_13_1.png)
 
-
-
-```R
-
-```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyODQyMjY5NTNdfQ==
+-->
