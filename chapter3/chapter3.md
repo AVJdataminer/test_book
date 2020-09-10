@@ -153,5 +153,7 @@ Install the `seaborn` package.
 #!pip install seaborn
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAzMDE2XX0=
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFRlc3QgYm9va1xuYXV0aG
+9yOiBTYW50YSBDbGF1c1xuIiwiaGlzdG9yeSI6Wy0xOTYyOTc0
+NTQzLC0xNDMwMzAxNl19
 -->
