@@ -65,7 +65,7 @@ $s^{2}$ is our variance. $(X-\bar{X})^{2}$ tells us that we need to subtract eac
 Finally, we will divide that by the number of observations ${N}$.
 
 test eqn.
-$$ a := x^2-y^3 \tag{eqn} $$
+$$ a := x^2-y^3 \tag{eqn}  $$
 
 $$ a := x^2-y^3 \label{eqn} $$
 
@@ -73,5 +73,5 @@ We'll use mathematical notation a few more times in the book. I'll make sure to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0ODA2NzIzLC00MzY0NzE3MzVdfQ==
+eyJoaXN0b3J5IjpbLTIzOTk1MzczOSwtNDM2NDcxNzM1XX0=
 -->
