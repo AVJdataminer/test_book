@@ -1,4 +1,4 @@
-# DRILLS
+# DRILLS 1 
 
 1. Assign the sum of -10 and 2 to `a`.
 2. Assign the absolute value of `a` to `b`.
@@ -20,7 +20,7 @@ print(type(d))
     <class 'int'>
 
 
-# DRILL
+# DRILL 2
 
 1. Create a list containing the values `North`, `East`, `South` and `West`.  
 2. What is the result of the below?
@@ -41,7 +41,7 @@ print(len(['Monday','Tuesday','Wednesday','Thursday','Friday',['Saturday','Sunda
     6
 
 
-# DRILL
+# DRILL 3
 
 1. What do you expect to be the result of the following? Run the code and see how you did.
 
@@ -72,7 +72,7 @@ print(my_week)
     []
 
 
-## Drill
+## Drill little 1
 
 Practice some more slicing below:
 
@@ -96,7 +96,7 @@ print(my_list[1:5])
     [12, 5, 10, 9]
 
 
-## DRILL
+## DRILL little 2
 
 Practice slicing lists below. 
 
@@ -125,7 +125,7 @@ print(this_list[-2:])
 
 
 
-## Drill
+## Drill little 3
 
 The `factorial()` function from `math` will take the factorial of a number `X`.
 
@@ -140,12 +140,11 @@ math.factorial(10)
 
 
 
-
     3628800
 
 
 
-# Drill 
+# Drill 4
 
 Install the `seaborn` package.
 
@@ -153,3 +152,6 @@ Install the `seaborn` package.
 ```python
 #!pip install seaborn
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzAzMDE2XX0=
+-->
