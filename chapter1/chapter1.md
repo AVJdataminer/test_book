@@ -58,8 +58,11 @@ That's a lot of steps! For operations this intensive, it can be helpful to use m
 
 We can express the operations needed to find the variance like so: 
 
-$s^{2}=\frac{\sum(X-\bar{X})^{2}}{N}\ref{*}
-```$
+$s^{2}=\frac{\sum(X-\bar{X})^{2}}{N}$
+
+$$ a := x^2-y^3 \tag{*}\label{*} $$
+
+
 \label{somelabel}
 
 $s^{2}$ is our variance. $(X-\bar{X})^{2}$ tells us that we need to subtract each observation $X$ from the average $\bar{X}$, and square it. ${\sum}$ tells us to sum those results . 
@@ -70,5 +73,5 @@ We'll use mathematical notation a few more times in the book. I'll make sure to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODgwMjc4LC00MzY0NzE3MzVdfQ==
+eyJoaXN0b3J5IjpbLTQ3MTg3OTg2MiwtNDM2NDcxNzM1XX0=
 -->
