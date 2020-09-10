@@ -19,7 +19,7 @@ print(type(d))
     7
     <class 'int'>
 
-```{figure} gandalf.jpg
+```{figure} gandalf.png
 ---
 scale: 50%
 align: left
