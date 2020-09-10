@@ -60,18 +60,16 @@ We can express the operations needed to find the variance like so:
 
 $s^{2}=\frac{\sum(X-\bar{X})^{2}}{N}$
 
-$$ a := x^2-y^3 \tag{*}\label{*} $$
-
-
-\label{somelabel}
-
 $s^{2}$ is our variance. $(X-\bar{X})^{2}$ tells us that we need to subtract each observation $X$ from the average $\bar{X}$, and square it. ${\sum}$ tells us to sum those results . 
 
 Finally, we will divide that by the number of observations ${N}$.
+
+test eqn.
+$$ a := x^2-y^3 \label{fig} $$
 
 We'll use mathematical notation a few more times in the book. I'll make sure to label and walk through each equation, but I hope you can see that with practice, these actually become easier to read than a written list of steps. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTg3OTg2MiwtNDM2NDcxNzM1XX0=
+eyJoaXN0b3J5IjpbOTQ1MDk2NzM4LC00MzY0NzE3MzVdfQ==
 -->
