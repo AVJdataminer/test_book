@@ -66,9 +66,7 @@ Finally, we will divide that by the number of observations ${N}$.
 
 We'll use mathematical notation a few more times in the book. I'll make sure to label and walk through each equation, but I hope you can see that with practice, these actually become easier to read than a written list of steps. 
 
-Now, calculate the variance of the following numbers:
 
-
-```python
-
-```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQzNjQ3MTczNV19
+-->
